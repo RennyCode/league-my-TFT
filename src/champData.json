@@ -1,0 +1,418 @@
+{
+   "champions": [
+      {
+         "number": "1",
+         "name": "Ahri",
+         "class": "Academy",
+         "origin": "Ionia",
+         "img-src": "/champions/academy-ahri.jpg"
+      },
+      {
+         "number": "2",
+         "name": "Amumu",
+         "class": "Christmas",
+         "origin": "Shurima",
+         "img-src": "/champions/christmas-amumu.jpg"
+      },
+      {
+         "number": "3",
+         "name": "Anivia",
+         "class": "Prehistoric",
+         "origin": "Freljord",
+         "img-src": "/champions/prehistoric-anivia.jpg"
+      },
+      {
+         "number": "4",
+         "name": "aurelion sol",
+         "class": "Galaxy",
+         "origin": "Targon",
+         "img-src": "/champions/galaxy-aurelion-sol.jpg"
+      },
+      {
+         "number": "5",
+         "name": "Azir",
+         "class": "Coven",
+         "origin": "Shurima",
+         "img-src": "/champions/coven-azir.jpg"
+      },
+      {
+         "number": "6",
+         "name": "Blitzcrank",
+         "class": "Police",
+         "origin": "Zaun",
+         "img-src": "/champions/police-blitzcrank.jpg"
+      },
+      {
+         "number": "7",
+         "name": "Brum",
+         "class": "Mafia",
+         "origin": "Freljord",
+         "img-src": "/champions/mafia-braum.jpg"
+      },
+      {
+         "number": "8",
+         "name": "Caitlyn",
+         "class": "Military",
+         "origin": "Piltover",
+         "img-src": "/champions/military-caitlyn.jpg"
+      },
+      {
+         "number": "9",
+         "name": "Cho’gath",
+         "class": "Prehistoric",
+         "origin": "Void",
+         "img-src": "/champions/prehistoric-cho'gath.jpg"
+      },
+      {
+         "number": "10",
+         "name": "Darius",
+         "class": "Academy",
+         "origin": "Noxus",
+         "img-src": "/champions/academy-darius.jpg"
+      },
+      {
+         "number": "11",
+         "name": "Dr.mundo",
+         "class": "Halloween",
+         "origin": "Zaun",
+         "img-src": "/champions/halloween-dr-mundo.jpg"
+      },
+      {
+         "number": "12",
+         "name": "Draven",
+         "class": "Christmas",
+         "origin": "Noxus",
+         "img-src": "/champions/christmas-draven.jpg"
+      },
+      {
+         "number": "13",
+         "name": "Ekko",
+         "class": "Academy",
+         "origin": "Zaun",
+         "img-src": "/champions/academy-ekko.jpg"
+      },
+      {
+         "number": "14",
+         "name": "Ezreal",
+         "class": "Gentleman",
+         "origin": "Piltover",
+         "img-src": "/champions/gentleman-ezreal.jpg"
+      },
+      {
+         "number": "15",
+         "name": "Fizz",
+         "class": "Military",
+         "origin": "Bilgewater",
+         "img-src": "/champions/military-fizz.jpg"
+      },
+      {
+         "number": "16",
+         "name": "Galio",
+         "class": "Gentleman",
+         "origin": "Demacia",
+         "img-src": "/champions/gentleman-galio.jpg"
+      },
+      {
+         "number": "17",
+         "name": "Gangplank",
+         "class": "Military",
+         "origin": "Bilgewater",
+         "img-src": "/champions/military-gangplank.jpg"
+      },
+      {
+         "number": "18",
+         "name": "Garen",
+         "class": "Military",
+         "origin": "Demacia",
+         "img-src": "/champions/military-garen.jpg"
+      },
+      {
+         "number": "19",
+         "name": "Gragas",
+         "class": "Mafia",
+         "origin": "Freljord",
+         "img-src": "/champions/mafia-gragas.jpg"
+      },
+      {
+         "number": "20",
+         "name": "Graves",
+         "class": "Police",
+         "origin": "Bilgewater",
+         "img-src": "/champions/police-graves.jpg"
+      },
+      {
+         "number": "21",
+         "name": "Hecarim",
+         "class": "Halloween",
+         "origin": "Shadow isles",
+         "img-src": "/champions/halloween-hecarim.jpg"
+      },
+      {
+         "number": "22",
+         "name": "Jarvan IV",
+         "class": "Military",
+         "origin": "Demacia",
+         "img-src": "/champions/military-jarvan-iv.jpg"
+      },
+      {
+         "number": "23",
+         "name": "Jayce",
+         "class": "Gentleman",
+         "origin": "Piltover",
+         "img-src": "/champions/gentleman-jayce.jpg"
+      },
+      {
+         "number": "24",
+         "name": "Kassadin",
+         "class": "Halloween",
+         "origin": "Void",
+         "img-src": "/champions/halloween-kassadin.jpg"
+      },
+      {
+         "number": "25",
+         "name": "Katarina",
+         "class": "Christmas",
+         "origin": "Noxus",
+         "img-src": "/champions/christmas-katarina.jpg"
+      },
+      {
+         "number": "26",
+         "name": "Kayle",
+         "class": "Police",
+         "origin": "Demacia",
+         "img-src": "/champions/police-kayle.jpg"
+      },
+      {
+         "number": "27",
+         "name": "Kled",
+         "class": "Halloween",
+         "origin": "Noxus",
+         "img-src": "/champions/halloween-kled.jpg"
+      },
+      {
+         "number": "28",
+         "name": "Kog’maw",
+         "class": "Prehistoric",
+         "origin": "Void",
+         "img-src": "/champions/prehistoric-kog’maw.jpg"
+      },
+      { 
+         "number": "29",
+         "name": "Lissandra",
+         "class": "Coven",
+         "origin": "Freljord",
+         "img-src": "/champions/coven-lissandra.jpg"
+      },
+      {
+         "number": "30",
+         "name": "Lucian",
+         "class": "Lover",
+         "origin": "Demacia",
+         "img-src": "/champions/lover-lucian.jpg"
+      },
+
+      {
+         "number": "31",
+         "name": "Lux",
+         "class": "Academy",
+         "origin": "Demacia",
+         "img-src": "/champions/academy-lux.jpg"
+      },
+      {
+         "number": "32",
+         "name": "Maokai",
+         "class": "Halloween",
+         "origin": "Shadow isles",
+         "img-src": "/champions/halloween-maokai.jpg"
+      },
+      {
+         "number": "33",
+         "name": "Miss fortune",
+         "class": "Mafia",
+         "origin": "Bilgewater",
+         "img-src": "/champions/mafia-miss-fortune.jpg"
+      },
+      {
+         "number": "34",
+         "name": "Mordekiser",
+         "class": "Royalty",
+         "origin": "Shadow isles",
+         "img-src": "/champions/royalty-mordekiser.jpg"
+      },
+      {
+         "number": "35",
+         "name": "Morgana",
+         "class": "Coven",
+         "origin": "Demacia",
+         "img-src": "/champions/coven-morgana.jpg"
+      },
+      {
+         "number": "36",
+         "name": "Nasus",
+         "class": "Police",
+         "origin": "Shurima",
+         "img-src": "/champions/police-nasus.jpg"
+      },
+      {
+         "number": "37",
+         "name": "Nidalee",
+         "class": "Prehistoric",
+         "origin": "Ixtal",
+         "img-src": "/champions/christmas-nidalee.jpg"
+      },
+      {
+         "number": "38",
+         "name": "Nunu & willamp",
+         "class": "Zombie",
+         "origin": "Freljord",
+         "img-src": "/champions/zombie-nunu-and-willamp.jpg"
+      },
+      {
+         "number": "39",
+         "name": "Quinn",
+         "class": "Lover",
+         "origin": "Demacia",
+         "img-src": "/champions/lover-quinn.jpg"
+      },
+      {
+         "number": "40",
+         "name": "Rakan",
+         "class": "Lover",
+         "origin": "Ionia",
+         "img-src": "/champions/lover-rakan.jpg"
+      },
+      {
+         "number": "41",
+         "name": "Renekton",
+         "class": "Prehistoric",
+         "origin": "Shurima",
+         "img-src": "/champions/prehistoric-renekton.jpg"
+      },
+      {
+         "number": "42",
+         "name": "Sejuani",
+         "class": "Prehistoric",
+         "origin": "Freljord",
+         "img-src": "/champions/prehistoric-sejuani.jpg"
+      },
+      {
+         "number": "43",
+         "name": "Soraka",
+         "class": "Coven",
+         "origin": "Targon",
+         "img-src": "/champions/coven-soraka.jpg"
+      },
+      {
+         "number": "44",
+         "name": "Syndra",
+         "class": "Royalty",
+         "origin": "Ionia",
+         "img-src": "/champions/royalty-syndra.jpg"
+      },
+      {
+         "number": "45",
+         "name": "Swain",
+         "class": "Coven",
+         "origin": "Noxus",
+         "img-src": "/champions/coven-swain.jpg"
+      },
+      {
+         "number": "46",
+         "name": "Teemo",
+         "class": "Christmas",
+         "origin": "Bandle city",
+         "img-src": "/champions/christmas-teemo.jpg"
+      },
+      {
+         "number": "47",
+         "name": "Tristana",
+         "class": "Military",
+         "origin": "Bandle city",
+         "img-src": "/champions/military-tristana.jpg"
+      },
+      {
+         "number": "48",
+         "name": "Tryndamere",
+         "class": "King-in-the-north",
+         "origin": "Freljord",
+         "img-src": "/champions/zombie-tryndamere.jpg"
+      },
+      {
+         "number": "49",
+         "name": "Twitch",
+         "class": "Mafia",
+         "origin": "Zaun",
+         "img-src": "/champions/mafia-twitch.jpg"
+      },
+      {
+         "number": "50",
+         "name": "Varus",
+         "class": "Lover",
+         "origin": "Ionia",
+         "img-src": "/champions/lover-varus.jpg"
+      },
+      {
+         "number": "51",
+         "name": "Vayne",
+         "class": "Lover",
+         "origin": "Demacia",
+         "img-src": "/champions/lover-vayne.jpg"
+      },
+      {
+         "number": "52",
+         "name": "Vladimir",
+         "class": "Academy",
+         "origin": "Noxus",
+         "img-src": "/champions/academy-vladimir.jpg"
+      },
+      {
+         "number": "53",
+         "name": "Vi",
+         "class": "Gentleman",
+         "origin": "Piltover",
+         "img-src": "/champions/gentleman-vi.jpg"
+      },
+      {
+         "number": "54",
+         "name": "Viktor",
+         "class": "Coven",
+         "origin": "Zaun",
+         "img-src": "/champions/coven-viktor.jpg"
+      },
+      {
+         "number": "55",
+         "name": "Warwick",
+         "class": "Halloween",
+         "origin": "Zaun",
+         "img-src": "/champions/halloween-warwick.jpg"
+      },
+      {
+         "number": "56",
+         "name": "Xayah",
+         "class": "Lover",
+         "origin": "Ionia",
+         "img-src": "/champions/lover-xayah.jpg"
+      },
+      {
+         "number": "57",
+         "name": "Xin Zhao",
+         "class": "Military",
+         "origin": "Demacia",
+         "img-src": "/champions/military-xin-zhao.jpg"
+      },
+      {
+         "number": "58",
+         "name": "Yorik",
+         "class": "Zombie",
+         "origin": "Shadow isles",
+         "img-src": "/champions/zombie-yorick.jpg"
+      },
+      {
+         "number": "59",
+         "name": "Yummi",
+         "class": "Academy",
+         "origin": "Bandle city",
+         "img-src": "/champions/academy-yummi.jpg"
+      }
+   ]
+}
