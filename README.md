@@ -11,4 +11,4 @@ The new original teams includes the types: Cove, Chrismas, Academy, Galaxy, Hall
 Eventually most of the team concepts got implemented to some extent.
 
 
-![](name-of-giphy.gif)
+![](webgif.gif)
