@@ -9,3 +9,6 @@ years a go back when TFT just came out i had the idea for new other team comboat
 
 The new original teams includes the types: Cove, Chrismas, Academy, Galaxy, Halloween, Police, Zombie and more.
 Eventually most of the team concepts got implemented to some extent.
+
+
+![](name-of-giphy.gif)
